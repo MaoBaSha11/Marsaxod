@@ -1,0 +1,39 @@
+#######################################
+# Syntax Coloring Map For Marsaxod
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+servo	KEYWORD1
+barrier	KEYWORD1 
+receiver	KEYWORD1
+motors	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+sonarSetup	KEYWORD2
+setAngle	KEYWORD2
+setServo	KEYWORD2
+setSpd	KEYWORD2
+stopMotor	KEYWORD2
+brake	KEYWORD2
+getCH	KEYWORD2
+getDistant	KEYWORD2
+getCorDistant	KEYWORD2
+getBarrier	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+L   LITERAL1
+R   LITERAL1
+x   LITERAL1
+y   LITERAL1
+CH1 LITERAL1
+CH2 LITERAL1
+CH5 LITERAL1
+SWC LITERAL1
