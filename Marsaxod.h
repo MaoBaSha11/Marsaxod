@@ -2,22 +2,8 @@
 #define Marsaxod_h
 #include <Arduino.h>
 #include <Servo.h>
-/*
-sonarSetup  KEYWORD2
-setAngle    KEYWORD2
-setServo    KEYWORD2
-servo   KEYWORD1
-setSpeed    KEYWORD2
-setMotors   KEYWORD2
-stop    KEYWORD2
-brake   KEYWORD2
-motors  KEYWORD1
-get KEYWORD2
-setReceiver KEYWORD2
-receiver    KEYWORD1
-getDistant  KEYWORD2
-getCorDistant   KEYWORD2
-*/
+
+
 #define L "L"
 #define R "R"
 #define x "x"
@@ -26,6 +12,7 @@ getCorDistant   KEYWORD2
 #define CH2 "CH2"
 #define CH5 "CH5"
 #define SWC "switch"
+
 
 //класс для работы с датчиком препятствия
 class barrier{
